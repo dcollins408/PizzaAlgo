@@ -1,0 +1,8 @@
+1. Decide which business to order from
+2. Decide which type of pizza to order
+3. Either enter that order into an app like Door Dash, or call the pizzaria
+4. Twiddle your thumbs while you wait for the pie to be delivered
+5. Once the pizza arrives, either:
+a. Pay the driver and give them a chunky tip or
+b. You've already paid and requested a no-contact delivery. At which point, they drop off the pie and leave.
+6. Eat the pizza
