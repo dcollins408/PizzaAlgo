@@ -1,8 +1,10 @@
-1. Decide which business to order from
-2. Decide which type of pizza to order
-3. Either enter that order into an app like Door Dash, or call the pizzaria
-4. Twiddle your thumbs while you wait for the pie to be delivered
+1. Decide from which establishment you wish to order dinner.
+a. Figure out if you actually want pizza or a calzone.
+b. Puzzle out whether you need sides and a soda too.
+2. Decide which type of pizza (or calzone, or sando, or salad) to order.
+3. Either enter that order into an app like Door Dash, or call the pizzaria.
+4. Twiddle your thumbs while you wait for the pie to be delivered.
 5. Once the pizza arrives, either:
 a. Pay the driver and give them a chunky tip or
 b. You've already paid and requested a no-contact delivery. At which point, they drop off the pie and leave.
-6. Eat the pizza
+6. Eat the pizza.
